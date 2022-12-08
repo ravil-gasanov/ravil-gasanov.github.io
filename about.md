@@ -4,19 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Primer Notes
-
-### More Information
-
-"Primer Notes" is a personal blog, where I share my notes on a range of topics, highlighting the most important concepts and ideas.
+**Primer Notes** is a personal blog, where I strive to share **useful knowledge** and **didactic stories**.
 
 More specifically, types of posts you may expect include:
 
-1. Explaining complex ideas in a clear and concise manner, while providing insight beyond the techincal boilerplate.
+1. Notes and summaries for technical textbooks and coursework. Subjects: computer science, software engineering, machine learning, statistics, etc.
 
-2. Concrete organizational systems and other actionable advice to improve productivity.
+2. Concrete organizational systems and actionable advice to improve productivity.
 
-3. "War Stories" putting some of the covered material in real-life context.
+3. "War Stories" illustrating valuable lessons in a real-life context. 
 
 4. Occasionally, my thoughts on trending topics.
 
