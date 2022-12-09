@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-**Primer Notes** is a personal blog, where I strive to share **useful knowledge** and **didactic stories**.
+**Primer Notes** is a blog, where I strive to share **useful knowledge** and **cautionary tales**.
 
 More specifically, types of posts you may expect include:
 
@@ -18,4 +18,4 @@ More specifically, types of posts you may expect include:
 
 ### Contact me
 
-If you enjoy my content, feel free to connect with me on LinkedIn!
+If you enjoy my content, feel free to connect with me on LinkedIn.
