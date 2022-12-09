@@ -11,7 +11,7 @@ So whenever you are setting a specific learning goal, think about how you will i
 ## 2. Process vs Product
 However, when you are studying, it is important to focus on the process and not just the end product. 
 
-Study out of curiousity. This will help you avoid burning out and enjoy the learning experience.
+Study out of curiosity. This will help you avoid burning out and enjoy the learning experience.
 
 ## 3. Binging be damned
 It is better to study for shorter periods every day, rather than trying to cram all your studying into one long session once a week.
@@ -27,14 +27,14 @@ Instead, complete a section and jot down the most important bits in your own wor
 
 Handwritten notes may help you to implement the above tips. You can transfer the notes into a digital format when they are more refined and perhaps turn them into a blog post.
 
-Finally, it is better to to try and recall the material, rather than just review your notes. This requires more effort, but this way you will strengthen the neural connections that make the knowledge.
+Finally, it is better to try and recall the material, rather than just review your notes. This requires more effort, but this way you will strengthen the neural connections that make the knowledge.
 
 ## 5. Abstract
 Working with complex systems, software engineers quickly learn to appreciate the power of abstractions. 
 
 Indeed, there is only so much detail a human being can hold in their mind when reasoning. Therefore, it is extremely useful to break up whatever you are learning into layers of abstractions.
 
-More complex concepts should be higher in the abstraction hierarchy, and constructed in a way that allows to use them by recalling as few of the inner working details as possible.
+More complex concepts should be higher in the abstraction hierarchy, and constructed in a way that allows you to use them by recalling as few of the inner working details as possible.
 
 For example, you do not need to remember the formal underpinnings of integer numbers to perform basic arithmetic.
 
