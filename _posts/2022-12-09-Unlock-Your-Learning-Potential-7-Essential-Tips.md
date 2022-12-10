@@ -9,7 +9,7 @@ The best way to ensure that you are retaining what you are learning is to use it
 So whenever you are setting a specific learning goal, think about how you will integrate that knowledge and skill into your processes.
 
 ## 2. Process vs Product
-However, when you are studying, it is important to focus on the process and not just the end product. 
+However, when you are studying, it is important to focus on the process and not just the end product.
 
 Study out of curiosity. This will help you avoid burning out and enjoy the learning experience.
 
@@ -51,5 +51,4 @@ Research the popular use cases for the topic you are studying to get a sense of 
 
 ## References and additional sources
 [Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn)
-[The 4 things it takes to be an expert
-](https://www.youtube.com/watch?v=5eW6Eagr9XA)
+[The 4 things it takes to be an expert](https://www.youtube.com/watch?v=5eW6Eagr9XA)

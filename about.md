@@ -4,17 +4,20 @@ title: About
 permalink: /about/
 ---
 
-**Primer Notes** is a blog, where I strive to share **useful knowledge** and **cautionary tales**.
 
-More specifically, types of posts you may expect include:
+I am a Computer Science major who specializes in Data Science.
 
-1. Notes and summaries for technical textbooks and coursework. Subjects: computer science, software engineering, machine learning, statistics, etc.
+My broader interests include: recreational robotics, writing, entrepreneurship, scientific research, personal productivity.
 
-2. Concrete organizational systems and actionable advice to improve productivity.
+The content I share here can be roughly divided into the following categories:
 
-3. "War Stories" illustrating valuable lessons in a real-life context. 
+1. EXPLAINED: Articles (or series of articles) explaining scientific and technical concepts.
 
-4. Occasionally, my thoughts on trending topics.
+2. HOWTO: practical step-by-step guides
+
+3. PROJECT: selected personal projects
+
+4. STORY: *war stories* putting valueable lessons in real life context.
 
 ### Contact me
 
