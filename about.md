@@ -5,15 +5,17 @@ permalink: /about/
 ---
 
 
-I am a Computer Science major who specializes in Data Science.
+### About me
 
-My broader interests include: recreational robotics, writing, entrepreneurship, scientific research, personal productivity.
+I am a Computer Science major with a strong interest in Statistics, Machine Learning, Software Engineering, and Data Storytelling.
 
-The content I share here can be roughly divided into the following categories:
+My broader interests include: recreational robotics, writing, operations research, personal productivity and planning.
 
-1. EXPLAINED: Articles (or series of articles) explaining scientific and technical concepts.
+### Blog contents:
 
-2. HOWTO: practical step-by-step guides
+1. EXPLAINED: articles (or series of articles) explaining scientific, technical, and other interesting ideas.
+
+2. HOWTO: practical guides
 
 3. PROJECT: selected personal projects
 
@@ -21,4 +23,4 @@ The content I share here can be roughly divided into the following categories:
 
 ### Contact me
 
-If you enjoy my content, feel free to connect with me on LinkedIn.
+You are welcome to connect with me on LinkedIn.

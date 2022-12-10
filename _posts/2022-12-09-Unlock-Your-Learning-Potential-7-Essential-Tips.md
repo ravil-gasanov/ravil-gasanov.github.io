@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Unlock Your Learning Potential: 7 Essential Tips'
+title: 'HOWTO: 7 Essential Tips for Effective Learning'
 ---
 
 ## 1. Use It or Lose It
@@ -51,4 +51,5 @@ Research the popular use cases for the topic you are studying to get a sense of 
 
 ## References and additional sources
 [Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn)
+
 [The 4 things it takes to be an expert](https://www.youtube.com/watch?v=5eW6Eagr9XA)
