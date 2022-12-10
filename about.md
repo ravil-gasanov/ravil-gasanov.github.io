@@ -7,9 +7,13 @@ permalink: /about/
 
 ### About me
 
-I am a Computer Science major with a strong interest in Statistics, Machine Learning, Software Engineering, and Data Storytelling.
+I am a Computer Science major with a strong interest in Data Science and Software Engineering.
 
-My broader interests include: recreational robotics, writing, operations research, personal productivity and planning.
+My broader interests include: writing, operations research, recreational robotics, and more.
+
+Currently I am looking for a Data Science / Machine Learning internship.  
+
+I am open to relocation (preferred areas are EEA, Canada, UK, and US).
 
 ### Blog contents:
 
