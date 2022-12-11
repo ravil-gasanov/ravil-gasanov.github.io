@@ -7,23 +7,23 @@ permalink: /about/
 
 ### About me
 
-I am a Computer Science major with a strong interest in Data Science and Software Engineering.
+I am a Computer Science major currently working on my Master Thesis at [Exploratory Data Analysis group](https://eda.mmci.uni-saarland.de/people/), [CISPA Helmholtz Center for Information Security](https://cispa.de/en). Specifically, I am developing a causal discovery method that does not assume away hidden confounders and uniquely identifies the causal relationships using the Minimum Description Length principle.
 
-My broader interests include: writing, operations research, recreational robotics, and more.
+Key interests: machine learning, software engineering, statistics, exploratory data analysis, data storytelling.
 
-Currently I am looking for a Data Science / Machine Learning internship.  
+Broader interests: writing, recreational robotics, business, investment, human intelligence, operations research, information theory.
 
-I am open to relocation (preferred areas are EEA, Canada, UK, and US).
+I am looking for a Data Scientist / Machine Learning Engineer internship. Open to relocation (EEA, Canada, UK, and US).
 
-### Blog contents:
+### Content:
 
-1. EXPLAINED: articles (or series of articles) explaining scientific, technical, and other interesting ideas.
+1. Articles on data science, software engineering, productivity, etc.
 
 2. HOWTO: practical guides
 
-3. PROJECT: selected personal projects
+3. Selected personal projects
 
-4. STORY: *war stories* putting valueable lessons in real life context.
+4. *War stories* putting valueable lessons in real life context.
 
 ### Contact me
 
