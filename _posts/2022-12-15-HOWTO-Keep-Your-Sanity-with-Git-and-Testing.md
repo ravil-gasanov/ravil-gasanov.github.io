@@ -4,9 +4,9 @@ title: 'HOWTO: Keep Your Sanity with Git and Testing'
 ---
 
 ## 1. Keep it small
-
 Keep your commits small. This has several benefits:
 - easier for other people to review and accept your pull requests
+
 - easier to keep track of concrete changes and roll back when necessary
 - forces you to write cleaner code, as you have to break up complex methods in shorter abstract ones
 - good quality unit tests become a natural part of the process
