@@ -32,4 +32,5 @@ A simple trick to add some resistance to such behavior is to introduce pre-commi
 
 ## References and additional sources
 [MIT 6.0001 - Lecture 7 - Testing, Debugging, Exceptions, Assertions](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/mit6_0001f16_lec7/)
+
 [30 best practices for software development and testing](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing)
