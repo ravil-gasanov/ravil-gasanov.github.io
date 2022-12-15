@@ -15,11 +15,11 @@ Keep your commits small. This has several benefits:
 Make sure every part of the project code is covered by tests, at the very least you can avoid most trivial errors. Which is especially important when you are working with languages like Python and do not want to get annoying runtime surprizes, like syntax errors.
 
 But to properly test your software, you will have to go beyond 100% coverage with unit tests and make heavy use of functional and integration tests.
-```
-My dear, here we must run as fast as we can, just to stay in place. And if you wish to go anywhere you must run twice as fast as that.
 
-Lewis Carroll, Alice in Wonderland
-```
+*''My dear, here we must run as fast as we can, just to stay in place. And if you wish to go anywhere you must run twice as fast as that.''*
+
+— Lewis Carroll, Alice in Wonderland
+
 
 ## 3. The strategic kind of lazy
 There will come a point, when you will (want to) skip testing some part of the code. Because it is difficult to test or you don't have time or some other excuse. 
@@ -28,7 +28,7 @@ You will inevitably regret it, of course, because it will lead to overall more w
 
 A simple trick to add some resistance to such behavior is to introduce pre-commit hooks, that will make sure all your tests are green and you have 100% coverage before allowing the commit.
 
-![Pre-commit hooks]({{ site.baseurl }}/images/pre-commit-hooks.png "Pre-commit hooks")
+![pre-commit]({{ site.baseurl }}/images/pre-commit-hooks.png "Pre-commit hooks")
 
 ## References and additional sources
 [MIT 6.0001 - Lecture 7 - Testing, Debugging, Exceptions, Assertions](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/mit6_0001f16_lec7/)
