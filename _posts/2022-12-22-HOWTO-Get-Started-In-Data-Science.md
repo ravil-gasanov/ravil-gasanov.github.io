@@ -42,7 +42,7 @@ Take your time or iterate (going deeper and deeper), but always learn the fundam
 - Learn the fundamentals and *do the problem sets*.
 
 ## The Where
-A list of specific recommendations to get you started. The list is not exhaustive by any means. In particular, I have resisted the desire to include more computer science and software engineering material (these probably deserve their own posts). I may also update the list, so keep an eye out.
+A list of specific recommendations to get you started. The list is not exhaustive by any means. In particular, I have resisted the desire to include more computer science and software engineering material (these probably deserve their own posts). It also has more emphasis on the Machine Learning and Statistics tracks due to my personal experiences, read more about Data Analytics [here](https://towardsdatascience.com/data-sciences-most-misunderstood-hero-2705da366f40).
 
 ### Introduction to Programming
 - [MIT-6.0001: Introduction To Computer Science And Programming In Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
@@ -62,5 +62,6 @@ A list of specific recommendations to get you started. The list is not exhaustiv
 - [MIT-18.06SC: Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) (mixed feelings)
 - [All of Statistics](https://www.stat.cmu.edu/~larry/all-of-statistics/) (highly recommended)
 
-## References and additional sources
-[Data Science’s Most Misunderstood Hero](https://towardsdatascience.com/data-sciences-most-misunderstood-hero-2705da366f40)
+## Conclusion
+
+There is an abundance of learning resources online. This is great, but can also be a curse putting you into a perpetual state of indecision. Start somewhere, start anywhere.
