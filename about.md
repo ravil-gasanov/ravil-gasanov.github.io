@@ -23,7 +23,7 @@ I am looking for a Data Scientist / Machine Learning Engineer internship. Open t
 
 3. Selected personal projects
 
-4. *War stories* putting valueable lessons in real life context.
+4. *War stories* putting valuable lessons in real life context.
 
 ### Contact me
 
