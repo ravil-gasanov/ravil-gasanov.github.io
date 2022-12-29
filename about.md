@@ -17,7 +17,7 @@ I am looking for a Data Scientist / Machine Learning Engineer internship. Open t
 
 ### Content:
 
-1. Articles on data science, software engineering, productivity, etc.
+1. Notes on data science, software engineering, productivity, etc.
 
 2. HOWTO: practical guides
 
