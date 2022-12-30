@@ -60,7 +60,7 @@ Intuitively then - if it works for n = 0, and we prove that if it works for n - 
 The hard part of proving by induction usually comes down to correctly and conveniently formalizing the algorithm and the correctness criteria.
 
 ## Conclusion
-Follow me on [LinkedIn](https://www.linkedin.com/in/ravilgasanov/) to get notified when the upcoming chapters are published. Starting from Chapter 3, I plan to add a list of *finger-problems* that will help you master a specific concept or technique covered here.
+Follow me on [LinkedIn](https://www.linkedin.com/in/ravilgasanov/) to get notified when the upcoming chapters are published. Starting from Chapter 3, I plan to add a list of *finger exercises* that will help you master a specific concept or technique covered here.
 
 ## References and additional sources
 [Algorithm Design Manual](https://www.algorist.com/)
