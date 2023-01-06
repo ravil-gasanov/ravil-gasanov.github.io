@@ -1,9 +1,7 @@
 ---
 layout: post
 title: 'Algorithm Design Notes: Chapter 2'
-mathjax: true
 ---
-{% include mathjax.html %}
 
 ## Introduction
 This is the second chapter in a series of study notes I made reading [my favorite algorithms book](https://www.algorist.com/). In this chapter, we will discuss how to assess algorithm efficiency by introducing essential concepts in time complexity analysis.
