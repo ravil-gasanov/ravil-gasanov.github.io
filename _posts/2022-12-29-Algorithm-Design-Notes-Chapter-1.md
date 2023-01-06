@@ -3,7 +3,9 @@ layout: post
 title: 'Algorithm Design Notes: Chapter 1'
 ---
 ## Introduction
-This is the first chapter in a series of study notes I made reading [my favorite algorithms book](https://www.algorist.com/). They are not intended (and can't) replace the original material, but can serve as a good refresher or a quick (but not complete) overview to help the reader to improve their algorithm design and problem-solving skills.
+This is the first chapter in a series of study notes I made reading [my favorite algorithms book](https://www.algorist.com/). They are not intended (and can't) replace the original material, but can serve as a good refresher or a quick (but not complete) overview to help the reader improve their algorithm design and problem-solving skills.
+
+In this chapter, we will discuss how to formulate the problem, build a solution and reason about its correctness.
 
 ## Problem Statement
 A well-specified problem includes a complete description of:
