@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Algorithm Design Notes: Chapter 2'
+mathjax: true
 ---
 
 ## Introduction
