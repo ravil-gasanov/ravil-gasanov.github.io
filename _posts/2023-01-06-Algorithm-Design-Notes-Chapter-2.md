@@ -32,4 +32,4 @@ From the definitions above, one can notice that we essentially disregard multipl
 Thus to obtain an upper bound on your algorithm, you need only follow down the most computationally expensive path.
 
 ## Conclusion
-What I attempted here is a bite-sized crash into the most essential basics of complexity analysis. Read the respective chapter of the [original source](https://www.algorist.com/) for a much more detailed discussion.
+What I attempted here is a bite-sized introduction to algorithm complexity analysis. Read the respective chapter of the [original source](https://www.algorist.com/) for a much more detailed discussion.
