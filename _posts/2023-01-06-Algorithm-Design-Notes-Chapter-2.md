@@ -20,14 +20,14 @@ We defined time complexity in terms of the input size, but it is easy to show th
 
 So do we want the **best**, the **worst**, or perhaps the **average** running time? It is foolish to depend on the best-case. On the other hand, average-case complexity is quite useful in practice, but it can be tricky to obtain and may require domain-specific considerations, and we would probably still want to know what happens in the worst-case scenario. Thus, the most common and reliable is the worst-case complexity analysis.
 
-There are three primary tools to determine to analyze complexity. Assume $f(n)$ is the true complexity function, then:
-- $$ f(n) = O(g(n)) $$, means that there exists a constant $c$ such that $c \cdot g(n)$ is an upper bound on \( f(n)$, i.e. $f(n) \) is always $\leq c \cdot g(n)$, for all $n \geq n_0$
-- $f(n) = \Omega(g(n))$, means that there exists a constant $c$ such that $c \cdot g(n)$ is a lower bound on $f(n)$, i.e. $f(n)$ is always $\geq c \cdot g(n)$, for all $n \geq n_0$
-- $f(n) = \Theta(g(n))$, means that there exists a constant $c_1$ such that $c_1 \cdot g(n)$ is an upper bound on $f(n)$ and there exists a constant $c_2$ such that $c_2 \cdot g(n)$ is a lower bound on $f(n)$, for all $n \geq n_0$
+There are three primary tools to determine to analyze complexity. Assume $$f(n)$$ is the true complexity function, then:
+- $$ f(n) = O(g(n)) $$, means that there exists a constant $$c$$ such that $$c \cdot g(n)$$ is an upper bound on $$ f(n) $$, i.e. $$f(n)$$ is always $$\leq c \cdot g(n)$$, for all $$n \geq n_0$$
+- $$f(n) = \Omega(g(n))$$, means that there exists a constant $$c$$ such that $$c \cdot g(n)$$ is a lower bound on $$f(n)$$, i.e. $$f(n)$$ is always $$\geq c \cdot g(n)$$, for all $$n \geq n_0$$
+- $$f(n) = \Theta(g(n))$$, means that there exists a constant $$c_1$$ such that $$c_1 \cdot g(n)$$ is an upper bound on $$f(n)$$ and there exists a constant $$c_2$$ such that $$c_2 \cdot g(n)$$ is a lower bound on $$f(n)$$, for all $$n \geq n_0$$
 
 The most useful of these is the *Big Oh*, that gives us the upper bound. And although sometimes we might overshoot, i.e. the real complexity is significantly lower than our upper bound, it is the best pick for simple algorithms.
 
-From the definitions above, one can notice that we essentially disregard multiplicative constants in our analysis, i.e. given $f(n) = 0.001*n^2$ and $g(n) = 1000*n^2$, $f(n) = O(g(n))$ even though the $g(n)$ values are a million times larger than $f(n)$ values. A direct implication of this is that we can also disregard the lower order terms. Indeed, given $f(n) = n^2 + n$, if we don't care about whether it is $100 * n^2$ or $10000000 * n^2$, why care about $n$?
+From the definitions above, one can notice that we essentially disregard multiplicative constants in our analysis, i.e. given $$f(n) = 0.001*n^2$$ and $$g(n) = 1000*n^2$$, $$f(n) = O(g(n))$$ even though the $$g(n)$$ values are a million times larger than $$f(n)$$ values. A direct implication of this is that we can also disregard the lower order terms. Indeed, given $$f(n) = n^2 + n$$, if we don't care about whether it is $$100 * n^2$$ or $$10000000 * n^2$$, why care about $$n$$?
 
 Thus to obtain an upper bound on your algorithm, you need only follow down the most computationally expensive path.
 
