@@ -24,7 +24,7 @@ For example, if we had a string "ab", the shortest program would be simply be:
 print("ab") 
 ```
 
-But imagine we have a string "abab..", where "ab" repeats hundreds of times. Now, we can devise a program shorter than storing the whole string explicitly:
+But imagine if we had a string "abab..", where "ab" repeats hundreds of times. Now, we can devise a program shorter than storing the whole string explicitly:
 
 ```python
 for i in range(100):
