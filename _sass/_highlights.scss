@@ -11,6 +11,21 @@ code {
   font-family:'Bitstream Vera Sans Mono','Courier', monospace;
 }
 
+/* _sass/_post.css */
+.highlight > button {
+  opacity: 0;
+}
+
+.highlight:hover > button {
+  opacity: 1;
+}
+
+.highlight > button:active,
+.highlight > button:focus {
+  opacity: 1;
+}
+
+
 .highlight .c { color: #586E75 } /* Comment */
 .highlight .err { color: #93A1A1 } /* Error */
 .highlight .g { color: #93A1A1 } /* Generic */
