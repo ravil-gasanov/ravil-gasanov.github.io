@@ -1,28 +1,52 @@
 
 .highlight {
-  background-color: #222;
-  padding: 7px 7px 7px 10px;
-  border-left: 15px solid #35383c;
-  margin: 15px 0 15px 0;
-  overflow: auto;
-}
+  padding: 8px 12px;
+  position: relative;
 
-code {
-  font-family:'Bitstream Vera Sans Mono','Courier', monospace;
-}
+  // override skeleton styles
+  > code {
+    border: 0;
+    overflow-x: auto;
+    padding-right: 0;
+    padding-left: 0;
+  }
 
-/* _sass/_post.css */
-.highlight > button {
-  opacity: 0;
-}
+  &.highlight {
+    border-left: 15px solid #35383c;
+    color: #c1c2c3;
+    overflow: auto;
+    white-space: pre;
+    word-wrap: normal;
 
-.highlight:hover > button {
-  opacity: 1;
-}
+    &,
+    code {
+      background-color: #222;
+      font-size: 18px;
+    }
+  }
 
-.highlight > button:active,
-.highlight > button:focus {
-  opacity: 1;
+  // copy code to clipboard
+  .copy {
+    color: $white;
+    position: absolute;
+    right: 1.2rem;
+    top: 1.2rem;
+    opacity: 0;
+
+    &:active,
+    &:focus,
+    &:hover {
+      background: rgba(0, 0, 0, 0.7);
+      opacity: 1;
+    }
+  }
+
+  &:active .copy,
+  &:focus .copy,
+  &:hover .copy {
+    background: rgba(0, 0, 0, 0.7);
+    opacity: 1;
+  }
 }
 
 
