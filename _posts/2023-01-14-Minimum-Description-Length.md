@@ -4,7 +4,6 @@ title: 'Minimum Description Length'
 ---
 
 ## Introduction
-
 Minimum Description Length (MDL) principle is similar to the age-old concept of Occam's razor. Just like Occam's razor, which states that the simplest explanation is often the best, MDL states that the best model is the simplest one, that still accurately describes the data.
 
 Unlike the Occam's razor, MDL is not just a heuristic, but a well-founded mathematical concept with a solid theoretical motivation.
