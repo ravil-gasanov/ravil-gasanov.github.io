@@ -1,6 +1,6 @@
 
 .highlight {
-  background-color: #111111;
+  background-color: #222;
   padding: 7px 7px 7px 10px;
   border: 0px transparent #ddd;
   margin: 15px 0 15px 0;
@@ -8,6 +8,7 @@
 }
 
 code {
+  border-left: 15px solid #35383c;
   font-family:'Bitstream Vera Sans Mono','Courier', monospace;
 }
 
