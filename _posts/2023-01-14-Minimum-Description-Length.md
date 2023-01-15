@@ -26,10 +26,10 @@ print("ab")
 
 But imagine if we had a string "abab..", where "ab" repeats hundreds of times. Now, we can devise a program shorter than storing the whole string explicitly:
 
-{% highlight python %}
+```python
 for i in range(100):
     print("ab")
-{% endhighlight %}
+```
 
 ## Minimum Description Length
 
