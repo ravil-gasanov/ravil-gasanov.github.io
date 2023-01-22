@@ -31,8 +31,8 @@ Suppose you want to implement a Priority Queue. You need three basic operations:
 
 | Data Structure      | Insertion  | Min | Delete-min|
 |---------------------|------------|------------|------------|
-| PQ (unsorted array)| O(1) | O(n) | O(n) |
-| PQ (sorted array)| O(n) | O(1) | O(1) |
+| PQ (unsorted array) | O(1) | O(n) | O(n) |
+| PQ (sorted array) | O(n) | O(1) | O(1) |
 
 The above assumes that we have enough memory allocated to the arrays. Can you see why (in the worst case) it takes linear time to insert an element into a sorted array? Or why it only takes constant time to delete an element?
 
