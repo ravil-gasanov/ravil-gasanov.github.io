@@ -4,7 +4,6 @@ title: 'Algorithm Design Notes: Data Structures'
 ---
 
 ## Introduction
-
 This is the third chapter in a series of study notes I made reading [my favorite algorithms book](https://www.algorist.com/). In this chapter, we will discuss essential data structures, their place in algorithm design and important concepts underlying their efficiency.
 
 Many real world problems are modelled naturally by standard data structures like *priority queues* or *dictionaries*. Knowing your way around data structures has the following advantages (sorted by the depth of knowledge required):
