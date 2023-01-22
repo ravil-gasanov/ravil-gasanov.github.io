@@ -29,15 +29,15 @@ The contiguous structures provide more efficient random access, but require you 
 
 Suppose you want to implement a Priority Queue. You need three basic operations: *insert*, *min*, *delete-min*. Let us now compare two implementations, where you build on top of an unsorted and a sorted array respectively:
 
-| Data Structure      | Insertion  | Min | Delete-min|
-|---------------------|------------|------------|------------|
-| PQ (unsorted array) | O(1) | O(n) | O(n) |
-| PQ (sorted array) | O(n) | O(1) | O(1) |
+| Data Structure      | Insertion  | Min | Delete-min |
+|---------------------|------------|-----|------------|
+| PQ (unsorted array) | O(1)       | O(n)| O(n)       |
+| PQ (sorted array)   | O(n)       | O(1)| O(1)       |
 
 The above assumes that we have enough memory allocated to the arrays. Can you see why (in the worst case) it takes linear time to insert an element into a sorted array? Or why it only takes constant time to delete an element?
 
 ## Conclusion
-As usual, read [the book]((https://www.algorist.com/)) (or a book) for a much fuller discussion. I have found particularly interesting the following parts of the chapter:
+As usual, read [the book](https://www.algorist.com/) (or a book) for a much fuller discussion. I have found particularly interesting the following parts of the chapter:
 - Exercises on implementation trade-offs
 - Binary Search Trees
 - Hashing and its applications
