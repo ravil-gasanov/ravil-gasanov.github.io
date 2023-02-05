@@ -4,7 +4,7 @@ title: 'HOWTO: Win in Theory and Practice'
 ---
 
 ## Introduction
-Suppose you become *the most brilliant casino gambler that has ever walked the earth* and discover a strategy that gives you a 51% chance of doubling your bet. Now, if you are familiar with statistics this will sound like great news. If you are not and kind of skeptical, run a simulation with 1,000,000 bets played and look at your net. here's the python code:
+Suppose you become *the most brilliant casino gambler that has ever walked the earth* and discover a strategy that gives you a 51% chance of doubling your bet. Now, if you are familiar with statistics this will sound like great news. If you are not and kind of skeptical, run a simulation with 1,000,000 bets played and look at your net. Here's the python code:
 
 ```python
 import random
