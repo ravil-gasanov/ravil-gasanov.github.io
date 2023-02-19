@@ -26,4 +26,5 @@ There is a lot to be said about Object-Oriented Design, but here are the three c
 
 ## References and additional sources
 [MIT 6.0001 - Lecture 4 - Decomposition, Abstraction, Functions](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/lecture-4-decomposition-abstraction-and-functions/)
+
 [Composing Programs](http://composingprograms.com/)
