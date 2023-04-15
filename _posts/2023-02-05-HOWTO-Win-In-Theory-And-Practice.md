@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'HOWTO: Win in Theory and Practice'
+type: project
 ---
 
 ## Introduction
