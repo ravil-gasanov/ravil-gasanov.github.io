@@ -7,21 +7,19 @@ permalink: /about/
 
 ### About me
 
-I am a Computer Science major currently working on my Master Thesis at [Exploratory Data Analysis group](https://eda.mmci.uni-saarland.de/people/), [CISPA Helmholtz Center for Information Security](https://cispa.de/en). Specifically, I am developing a causal discovery method that does not assume away hidden confounders and uniquely identifies the causal relationships using the Minimum Description Length principle.
+I am a recent Master's graduate in Computer Science from Saarland University. I conducted my thesis project at [Exploratory Data Analysis group](https://eda.mmci.uni-saarland.de/people/), [CISPA Helmholtz Center for Information Security](https://cispa.de/en). There I developed a causal discovery algorithm that does not assume causal sufficiency, i.e., that we have measured all relevant variables.
 
-Key interests: machine learning, software engineering, statistics, exploratory data analysis, data storytelling.
+Professional interests: machine learning, exploratory data analysis, data storytelling, software engineering.
 
-Broader interests: writing, recreational robotics, business, investment, human intelligence, operations research, information theory.
-
-I am looking for a Data Scientist / Machine Learning Engineer internship. Open to relocation (EEA, Canada, UK, and US).
+Broader interests: writing, business, investment, weightlifting, boxing.
 
 ### Content:
 
-1. Notes on data science, software engineering, productivity, etc.
+1. Study notes on data science, software engineering, productivity, etc.
 
 2. HOWTO: practical guides
 
-3. Selected personal projects
+3. PROJECT: personal projects
 
 4. *War stories* putting valuable lessons in real life context.
 
