@@ -3,9 +3,9 @@ layout: post
 title: 'HOWTO: Learn'
 ---
 
-Learning is perhaps the most important aspect of intelligence. We can improve our learning ability by using scientifically backed approaches. However, it is important to remember that we are not the *average subject*. We should understand the fundamentals behind learning, start with techniques that work on average and then experiment with what works for us as an individual. Moreover, we should aim to be practical rather than optimal. If we can sustain a reasonably effective learning strategy, there is typically no need to push for the last 5% at the risk of burn out. In other words, we should factor in how much we enjoy a particular style of learning.
+Learning is perhaps the most important aspect of intelligence. Therefore it is important to be able to learn effectively.
 
-[comment]: <> (TO DO: describe the "learning problems" we are trying to solve, i.e., the big bad dragons.)
+We can improve our learning ability by using scientifically backed approaches. However, it is important to remember that we are not the *average subject*. We should understand the fundamentals behind learning, start with techniques that work on average and then experiment with what works for us as an individual. Moreover, we should aim to be practical rather than optimal. If we can sustain a reasonably effective learning strategy, there is typically no need to push for the last 5% at the risk of burn out. In other words, we should factor in how much we enjoy a particular style of learning.
 
 # Fundamentals
 In this section we will cover the fundamentals of learning and a few lifestyle tips that will boost our brain health. In particular, we will talk about different mental states that help with learning, discuss procrastination, memory, as well as the importance of sleep, diet and exercise.
