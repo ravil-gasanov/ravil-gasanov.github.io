@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HOWTO: Compose Code'
+title: 'HOWTO: Code'
 ---
 
 ## Decomposition
