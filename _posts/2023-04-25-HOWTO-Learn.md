@@ -3,7 +3,7 @@ layout: post
 title: 'HOWTO: Learn'
 ---
 
-Learning is perhaps the most important aspect of intelligence. Therefore it is important to be able to learn effectively.
+Learning is perhaps the most important aspect of intelligence. Surprisingly, most people do not know how to learn effectively.
 
 We can improve our learning ability by using scientifically backed approaches. However, it is important to remember that we are not the *average subject*. We should understand the fundamentals behind learning, start with techniques that work on average and then experiment with what works for us as an individual. 
 
