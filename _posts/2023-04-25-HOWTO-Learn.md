@@ -119,7 +119,7 @@ First, by exploring the best ways to explain the material, we distill and struct
 
 Furthermore, we are motivated to critically reflect and triple-check everything.
 
-Finally, the questions and feedback from students can highlight important gaps or bring new perspective. 
+Finally, questions and feedback from students can highlight important gaps or bring new perspective. 
 
 ## References and additional sources
 [Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn)
