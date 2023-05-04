@@ -58,58 +58,54 @@ Sometimes a task is unclear, ambiguous or overwhelming. To deal with task aversi
 
 
 ## Sleep, Exercise and Diet
-TO DO
+Get six to eight hours of quality sleep, exercise regularly, and eat healthy food. Now, we could apply a thousand small optimizations to these three, but it is better to just start and improve along the way.
 
-## Running Experiments
-TO DO
+## Experiments
+To figure out what works best for us, we keep performance records and then compare results between two competing approaches.
 
-# Learning: Strategies and Tactics
+For example, we could study only in the morning the first month, and only in the evening the second month. Then using our records (e.g., number of chapters, topic difficulty, etc.), we could compare our performance and make an informed decision on the best time of day.
+
+# Learning: Tips and Tricks
 
 ## 1. Use It or Lose It
-The best way to ensure that you are retaining what you are learning is to use it. If you don't use the knowledge and skills you acquire, they will gradually fade.
-
-So whenever you are setting a specific learning goal, think about how you will integrate that knowledge and skill into your processes.
+The best way to retain the knowledge and skills we acquire is to use them. The best way to ensure we will use them is to set relevant learning goals.
 
 ## 2. Process vs Product
-However, when you are studying, it is important to focus on the process and not just the end product.
+It is important to focus on the process and not just the end product.
 
-Study out of curiosity. This will help you avoid burning out and enjoy the learning experience.
+Study out of curiosity. Enjoy the learning experience.
 
 ## 3. Binging be damned
-It is better to study for shorter periods every day, rather than trying to cram all your studying into one long session once a week.
+It is better to consistently study for shorter periods, rather than procrastinate and then cram everything into one long session at the end of the deadline.
 
-This way your brain gets the chance to process the information and connect the dots.
+As we have discussed, this way our brain gets the chance to process the information and connect the dots.
 
 Finally, spaced repetition has been shown to improve retention.
 
 ## 4. A note on notes
-Do not go around mindlessly highlighting or copy-pasting notes.
+No mindless highlighting or copy-pasting notes.
 
-Instead, complete a section and jot down the most important bits in your own words. Then iteratively improve the notes and their organization as you cover more ground and deepen your understanding.
+Instead, we complete a section and then jot down the most important bits in our own words. Then iteratively improve the notes and their organization.
 
-Handwritten notes may help you to implement the above tips. You can transfer the notes into a digital format when they are more refined and perhaps turn them into a blog post.
+Handwritten notes are best. They will encourage us to be concise and clear. We can transfer the notes into a digital format when they are more refined and perhaps turn them into a blog post.
 
-Finally, it is better to try and recall the material, rather than just review your notes. This requires more effort, but this way you will strengthen the neural connections that make the knowledge.
+Finally, it is better to recall the material, rather than just review our notes. This requires more effort, but this way we will strengthen the neural connections that make the knowledge.
 
 ## 5. Abstract
-Working with complex systems, software engineers quickly learn to appreciate the power of abstractions. 
+Working with complex systems, software engineers quickly learned to appreciate the power of abstractions. 
 
-Indeed, there is only so much detail a human being can hold in their mind when reasoning. Therefore, it is extremely useful to break up whatever you are learning into layers of abstractions.
+Abstracting complex concepts allows to quickly access the key ideas without recalling all the tedious details.
 
-More complex concepts should be higher in the abstraction hierarchy, and constructed in a way that allows you to use them by recalling as few of the inner working details as possible.
-
-For example, you do not need to remember the formal underpinnings of integer numbers to perform basic arithmetic.
+For example, you do not need to know or remember the formal definitions of integer numbers to perform basic arithmetic.
 
 ## 6. Understanding vs Mastery
 
-It is also important to remember that understanding something is not the same as being able to do it yourself, and it certainly doesn't mean you have mastered the subject. 
+Understanding something is not the same as being able to do it. And it certainly does not imply mastery.
 
-So don't stop at understanding. Deliberate practice is key. Lots of it.
+So to achieve mastery, we do not stop at understanding. Deliberate practice is key. Lots of it.
 
 ## 7. The Puzzled and the Golden Hammer 
-How many times have you left a class clueless when or where to apply what you have just learned? Or, alternatively, every problem started to look like a nail for your new Golden Hammer?
-
-Research the popular use cases for the topic you are studying to get a sense of when and where you can use it.
+We should always learn the context where our new knowledge or skill are applicable. Otherwise, we risk to either be unable to use it or use it inappropriately.
 
 ## 8. Feedback
 Improvement in certain skills, like writing, becomes increasingly difficult. In such cases, feedback from a proficient individual is invaluable. 
