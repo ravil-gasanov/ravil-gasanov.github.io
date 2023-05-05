@@ -5,12 +5,12 @@ title: 'HOWTO: Learn'
 
 Learning is perhaps the most important aspect of intelligence. Surprisingly, most people do not know how to learn effectively.
 
-We can improve our learning ability by using scientifically backed approaches. However, it is important to remember that we are not the *average subject*. We should understand the fundamentals behind learning, start with techniques that work on average and then experiment with what works for us as an individual. 
+We can improve our learning ability by using scientifically backed approaches. But science speaks to the *average subject*, and to none of us in particular. We should understand the fundamentals behind learning, start with techniques that work on average and then experiment with what works for *us*.
 
-Moreover, we should aim to be practical rather than optimal. If we can sustain a reasonably effective learning strategy, there is typically no need to push for the last 5% at the risk of burn out. In other words, we should factor in how much we enjoy a particular style of learning.
+It is also better to be practical rather than optimal. If we can sustain a reasonably effective learning strategy, there is no need to push for the last 5% at the risk of burnout. In other words, whether we enjoy a given style of learning is an important factor.
 
 # Fundamentals
-In this section we will cover the fundamentals of learning and a few lifestyle tips that will boost our brain health. In particular, we will talk about different mental states that help with learning, discuss procrastination, memory, as well as the importance of sleep, diet and exercise.
+In this section, we cover the fundamentals of effective learning. We discuss important mental states, learning processes, procrastination, and health.
 
 ## Focused vs Diffuse Thinking
 
@@ -18,7 +18,7 @@ There are two primary brain modes, focused and diffuse, that we alternate to lea
 
 First, we focus on the material. After we have thoroughly familiarized ourselves with the topic, we can make use of the diffuse mode of thinking. 
 
-In diffuse mode, we let our brains wander, rather than focus on anything specific. The free flow of information allows our brain to think more creatively and make new connections. This deepens our understanding of the material and improves retention. This is backed by research, and there is also a lot of anecdotal evidence, where scientists get their *aha* moments during routine activities, like taking a walk.
+In diffuse mode, we let our brains wander, rather than focus on anything specific. The free flow of information allows our brain to think more creatively and make new connections. This way, we deepen our understanding of the material and improve retention. The importance of diffuse thinking is backed by research, and there is also a lot of anecdotal evidence, where scientists get their *aha* moments during routine activities, like taking a walk.
 
 ## Chunking
 A chunk is a unit of information that we consolidate through repeated exposure or practice. It is a neural pathway that encodes an idea or an action.
@@ -58,7 +58,13 @@ Sometimes a task is unclear, ambiguous or overwhelming. To deal with task aversi
 
 
 ## Sleep, Exercise and Diet
-Get six to eight hours of quality sleep, exercise regularly, and eat healthy food. Now, we could apply a thousand small optimizations to these three, but it is better to just start and improve along the way.
+There are multi-billion industries that sell supplements to boost brain health and make us smarter. Most of them do not have any scientific foundation. The most effective brain *drugs* are proper sleep, regular exercise, and a healthy diet.
+
+Get eight hours of undisturbed sleep. A dark and cool (but not cold) room can improve sleep.
+
+Regular exercise improves general health, mood, and the rate of neurogenesis (new brain cells). There is a wide range of choices, like running or weightlifting.
+
+Nutrition is highly individual and depends on our primary goals. The general advice we can give is to avoid extremes and stick to a sustainable diet. We should also identify foods that have a bad effect on us (for example, we feel sluggish after eating potato chips) and avoid them.
 
 ## Experiments
 To figure out what works best for us, we keep performance records and then compare results between two competing approaches.
