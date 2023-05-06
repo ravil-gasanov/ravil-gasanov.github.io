@@ -38,7 +38,7 @@ Chunks can get more complex. For example, suppose we learned how to throw hooks 
 ## Practice Makes Permanent
 Contrary to the popular saying, *only* perfect practice makes perfect. Practice makes permanent. Relatedly, we are often advised deliberate practice. But what is deliberate practice exactly? We will answer this question in two parts.
 
-First, we should learn not to fool ourselves. By frequently conducting mini-tests or recall sessions, we can identify gaps and fix errors in our knowledge.
+First, we should learn not to fool ourselves. By frequently conducting mini-tests or recall sessions, we can identify gaps and fix errors in our understanding.
 
 Second, we should avoid practicing only the easy parts. Instead, practice the difficult parts until they become easy as well.
 
@@ -55,7 +55,7 @@ task without getting distracted. It is much easier to stay on the productive tra
 Sometimes a task is unclear, ambiguous or overwhelming. To deal with task aversion, we can use the *ABC* strategies.
 
 - **Audit**. Review relevant details to improve understanding.
-- **Break**. Create a plan of action by breaking up the task into smaller, more manageable steps.
+- **Break**. Create a plan of action by breaking up the task into more manageable steps.
 - **Clarify**. Seek clarification or guidance. Unclear tasks are often set by other people.
 
 
@@ -71,7 +71,7 @@ Nutrition is highly individual and depends on our primary goals. The general adv
 ## Experiments
 To figure out what works best for us, we keep performance records and then compare results between two competing approaches.
 
-For example, we could study only in the morning the first month, and only in the evening the second month. Then using our records (e.g., number of chapters, topic difficulty, etc.), we could compare our performance and make an informed decision on the best time of day.
+For example, we could study only in the morning the first month, and only in the evening the second month. Then using our records (e.g., number of chapters, topic difficulty, etc.), we could compare our performance and make an informed productivity decision.
 
 # Learning: Tips and Tricks
 
