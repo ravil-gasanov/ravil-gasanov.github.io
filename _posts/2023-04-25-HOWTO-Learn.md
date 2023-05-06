@@ -7,21 +7,23 @@ Learning is perhaps the most important aspect of intelligence. Surprisingly, mos
 
 We can improve our learning ability by using scientifically backed approaches. But science speaks to the *average subject*, and to none of us in particular. We should understand the fundamentals behind learning, start with general recommendations and experiment to find what works for *us*.
 
-It is also better to be practical rather than optimal. If we can sustain a reasonably effective learning strategy, there is no need to push for the last 5% at the risk of burnout. In other words, whether we enjoy a given style of learning is an important factor.
+It is also better to be practical rather than optimal. If we can sustain a reasonably effective learning strategy, there is no need to push for the last 5%, risking burnout. In other words, whether we enjoy a given style of learning is an important factor.
 
 # Fundamentals
 In this section, we cover the fundamentals of effective learning. We discuss important mental states, learning processes, procrastination, and health.
 
 ## Focused vs Diffuse Thinking
 
-There are two primary brain modes, focused and diffuse, that we alternate to learn effectively.
+There are two primary learning modes - focused and diffuse.
 
-First, we focus on the material. After we have thoroughly familiarized ourselves with the topic, we can make use of the diffuse mode of thinking. 
+First, we focus on the information. The goal is to learn the facts and identify key takeaways. The pieces do not have to form a perfect picture yet, or provide deep insight, but we should become closely familiar with the material.
 
-In diffuse mode, we let our brains wander, rather than focus on anything specific. The free flow of information allows our brain to think more creatively and make new connections. This way, we deepen our understanding of the material and improve retention. The importance of diffuse thinking is backed by research, and there is also a lot of anecdotal evidence, where scientists get their *aha* moments during routine activities, like taking a walk.
+After a focused session, it is useful to enter the diffuse mode. That is, we let our brains wander, rather than focus on anything specific. The free flow of information in this state allows our brains to make new connections and, as a result, think more creatively. We can deepen our understanding, improve retention and break through when we are stuck. The importance of diffuse thinking is backed by research, and there are famous examples of scientists getting *aha* moments, when taking a walk or a bath.
+
+The two modes are used in alternation. Most of the study session (~80%) should be spent in focused mode, since as fun as diffuse mode can be - we simply cannot afford to reinvent all of knowledge or delve deeply into every idea.
 
 ## Chunking
-A chunk is a unit of information that we consolidate through repeated exposure or practice. It is a neural pathway that encodes an idea or an action.
+A chunk is a unit of information that we consolidate through repeated exposure and practice. It is a neural pathway that encodes an idea or an action.
 
 There are three key steps in creating a useful chunk.
 
@@ -40,7 +42,7 @@ First, we should learn not to fool ourselves. By frequently conducting mini-test
 
 Second, we should avoid practicing only the easy parts. Instead, practice the difficult parts until they become easy as well.
 
-Deliberate practice can also help us to fight Einstellung. The German word that means mindset, describes a phenomenon when existing habits and established neural patterns prevent us from finding a better idea. This is also why in addition to exploiting our current knowledge, we should strive to explore uncharted territory keeping an open mind.
+Deliberate practice can also help us fight Einstellung. The German word that means mindset, describes a phenomenon when existing habits and established neural patterns prevent us from finding a better idea. This is also why in addition to exploiting our current knowledge, we should strive to explore uncharted territory keeping an open mind.
 
 ## Procrastination
 
