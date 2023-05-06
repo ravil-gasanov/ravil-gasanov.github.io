@@ -20,7 +20,7 @@ First, we focus on the information. The goal is to learn the facts and identify 
 
 After a focused session, it is useful to enter the diffuse mode. That is, we let our brains wander, rather than focus on anything specific. The free flow of information in this state allows our brains to make new connections and, as a result, think more creatively. Diffuse thinking can help us deepen our understanding, improve retention, and break through when we are stuck. Its importance is backed by research, and there is also a lot of anecdotal evidence of scientists getting their *aha* moments, when taking a walk or a bath.
 
-The two modes are used in alternation. Most of the study session (~80%) should be spent in focused mode, since as fun as diffuse mode can be - we simply cannot afford to reinvent all of knowledge or delve deeply into every idea.
+The two modes are used in alternation. Most of the study session (~85%) should be spent in focused mode, since as fun as diffuse mode can be - we simply cannot afford to reinvent all of knowledge or delve deeply into every idea.
 
 ## Chunking
 A chunk is a unit of information that we consolidate through repeated exposure and practice. It is a neural pathway that encodes an idea or an action.
