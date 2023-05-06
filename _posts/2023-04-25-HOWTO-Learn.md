@@ -18,7 +18,7 @@ There are two primary learning modes - focused and diffuse.
 
 First, we focus on the information. The goal is to learn the facts and identify key takeaways. The pieces do not have to form a perfect picture yet, or provide deep insight, but we should become closely familiar with the material.
 
-After a focused session, it is useful to enter the diffuse mode. That is, we let our brains wander, rather than focus on anything specific. The free flow of information in this state allows our brains to make new connections and, as a result, think more creatively. We can deepen our understanding, improve retention and break through when we are stuck. The importance of diffuse thinking is backed by research, and there are famous examples of scientists getting *aha* moments, when taking a walk or a bath.
+After a focused session, it is useful to enter the diffuse mode. That is, we let our brains wander, rather than focus on anything specific. The free flow of information in this state allows our brains to make new connections and, as a result, think more creatively. Diffuse thinking can help us deepen our understanding, improve retention, and break through when we are stuck. Its importance is backed by research, and there is also a lot of anecdotal evidence of scientists getting their *aha* moments, when taking a walk or a bath.
 
 The two modes are used in alternation. Most of the study session (~80%) should be spent in focused mode, since as fun as diffuse mode can be - we simply cannot afford to reinvent all of knowledge or delve deeply into every idea.
 
