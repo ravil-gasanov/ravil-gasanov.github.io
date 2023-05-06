@@ -108,9 +108,7 @@ For example, you do not need to know or remember the formal definitions of integ
 
 ## 6. Understanding vs Mastery
 
-Understanding something is not the same as being able to do it. And it certainly does not imply mastery.
-
-So to achieve mastery, we do not stop at understanding. Deliberate practice is key. Lots of it.
+Understanding something is not the same as being able to do it. And it certainly does not imply mastery. To achieve mastery, do not stop at understanding. Deliberate practice is key. Lots of it.
 
 ## 7. The Puzzled and the Golden Hammer 
 We should always learn the context where our new knowledge or skill are applicable. Otherwise, we risk to either be unable to use it or use it inappropriately.
