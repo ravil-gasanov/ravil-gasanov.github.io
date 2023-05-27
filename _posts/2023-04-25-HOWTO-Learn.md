@@ -5,9 +5,11 @@ title: 'HOWTO: Learn'
 
 Learning is perhaps the most important aspect of intelligence. Surprisingly, most people do not know how to learn effectively.
 
-We can improve our learning ability by using scientifically backed approaches. But science speaks to the *average subject*, and to none of us in particular. To find what works for *us* - we should understand the fundamentals behind learning, start with general recommendations, and experiment.
+We can improve our learning ability by understanding the processes behind learning and following scientifically backed advice.
 
-It is also better to be practical rather than optimal. If we can sustain a reasonably effective learning strategy, there is no need to push for the last 5%, risking burnout. In other words, whether we enjoy a given style of learning is an important factor.
+Science, however, speaks to the *average subject* - and to none of us in particular. Thus it is best to start with general recommendations and experiment to find what works for *us*.
+
+It is also better to be practical rather than optimal. If we can sustain a reasonably effective learning strategy, there is no need to push for the last 5%, risking burnout. In other words, whether we enjoy a particular style of learning is an important factor.
 
 # Fundamentals
 In this section, we cover the fundamentals of effective learning. We discuss important mental states, learning processes, procrastination, and health.
