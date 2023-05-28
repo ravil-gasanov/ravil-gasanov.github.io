@@ -7,7 +7,7 @@ Learning is perhaps the most important aspect of intelligence. Surprisingly, mos
 
 We can improve our learning ability by understanding the processes behind learning and following scientifically backed advice.
 
-Science, however, speaks to the *average subject* - and to none of us in particular. Thus it is best to start with general recommendations and experiment to find what works for *us*.
+Science, however, speaks to the *average* and none of us in particular. Thus it is best to start with general recommendations and experiment to find what works for *us*.
 
 It is also better to be practical rather than optimal. If we can sustain a reasonably effective learning strategy, there is no need to push for the last 5%, risking burnout. In other words, whether we enjoy a particular style of learning is an important factor.
 
