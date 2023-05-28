@@ -68,7 +68,7 @@ Get eight hours of undisturbed sleep. A dark and cool (but not cold) room can im
 
 Regular exercise improves general health, mood, and the rate of neurogenesis (new brain cells). There is a wide range of choices, like running or weightlifting.
 
-Nutrition is highly individual and depends on our primary goals. The general advice we can give is to avoid extremes and stick to a sustainable diet. We should also identify foods that have a bad effect on us (for example, we feel sluggish after eating potato chips) and avoid them.
+Nutrition is highly individual and depends on our primary goals. Avoid extremes and stick to a sustainable diet. Identify foods that have a bad effect on you (for example, I feel sluggish after eating potato chips) and exclude them.
 
 ## Experiments
 To figure out what works best for us, we keep performance records and then compare results between two competing approaches.
