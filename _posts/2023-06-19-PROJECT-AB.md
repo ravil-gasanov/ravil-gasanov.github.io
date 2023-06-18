@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Project: A/B Test'
-type: project
 ---
 
 # Introduction
