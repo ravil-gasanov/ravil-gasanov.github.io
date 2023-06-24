@@ -19,6 +19,8 @@ It is straightforward for the variables we directly control, e.g., the other web
 Less obvious is how we should deal with variables we can't control. For example, the user's display or the lighting in their office. We do not even have access to most of this kind of information. But the solution is elegant. We just randomize these aspects. If we choose to show a specific color theme to users on a random basis, any external effects on sales will come down to the same average for both groups, and the only difference (if there is any) will be due to the color theme.
 
 # A/B Test Experiment
+For an interactive and better formatted experience, check out the [Kaggle notebook](https://www.kaggle.com/code/ravilgasanov/1-0-rg-ab-test) version of the experiment.
+
 ## Hypotheses
 Null: 'control' and 'variant' groups have no significant difference in revenue.
 
