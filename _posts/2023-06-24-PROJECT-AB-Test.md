@@ -7,7 +7,7 @@ type: project
 # Introduction
 In this mini-project, I first explain the concept of A/B testing. After that I provide a concrete example to tackle the technical details.
 
-To provide a minimal example without distracting elements, I picked a [synthetic data set](https://www.kaggle.com/datasets/sergylog/ab-test-data) designed specifically for an A/B test.
+To provide a minimal example without distracting elements, I picked a [synthetic data set](https://www.kaggle.com/datasets/sergylog/ab-test-data).
 
 # Concept
 A/B tests are a rigorous way to compare two versions of a product. 
