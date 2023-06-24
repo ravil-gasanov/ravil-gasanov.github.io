@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HOWTO: Learn'
+title: 'PROJECT: A/B Test'
 type: project
 ---
 
