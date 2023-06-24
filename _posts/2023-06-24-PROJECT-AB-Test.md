@@ -92,13 +92,13 @@ data.value_counts(['USER_ID'])
 data.groupby(['USER_ID', 'VARIANT_NAME']).sum().head()
 ```
 
-| USER_ID | VARIANT_NAME | REVENUE |
-|---------|--------------|---------|
-|    2    |   control    |   0.0   |
-|    3    |   control    |   0.0   |
-|    3    |   variant    |   0.0   |
-|    4    |   variant    |   0.0   |
-|    5    |   variant    |   0.0   |
+    | USER_ID | VARIANT_NAME | REVENUE |
+    |---------|--------------|---------|
+    |    2    |   control    |   0.0   |
+    |    3    |   control    |   0.0   |
+    |    3    |   variant    |   0.0   |
+    |    4    |   variant    |   0.0   |
+    |    5    |   variant    |   0.0   |
 
 ### Normality test
 ```python
