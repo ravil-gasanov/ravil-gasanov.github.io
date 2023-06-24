@@ -7,14 +7,14 @@ type: project
 # Introduction
 In this mini-project, I first explain the concept of A/B testing. After that I provide a concrete example to tackle the technical details.
 
-To provide a minimal example without distracting elements, I picked a [synthetic data set](https://www.kaggle.com/datasets/sergylog/ab-test-data) designed specifically for an AB test.
+To provide a minimal example without distracting elements, I picked a [synthetic data set](https://www.kaggle.com/datasets/sergylog/ab-test-data) designed specifically for an A/B test.
 
 # Concept
-A/B tests are a rigorous way to compare two versions of a product to see which one is better. 
+A/B tests are a rigorous way to compare two versions of a product. 
 
-For example, let's say we would like to know which color theme on our landing page leads to more sales - blue or purple. To determine this, we would have to compare the color themes with *all other things being equal*.
+For example, let's say we would like to know which color theme on our landing page leads to more sales, blue or purple. To determine this, we would have to compare the color themes with *all other things being equal*.
 
-It is straightforward for the variables we directly control, i.e., the other website elements, we just keep them fixed for both versions. 
+It is straightforward for the variables we directly control, e.g., the other website elements, we just keep them fixed for both versions. 
 
 Less obvious is how we should deal with variables we can't control. For example, the user's display or the lighting in their office. We do not even have access to most of this kind of information. But the solution is elegant. We just randomize these aspects. If we choose to show a specific color theme to users on a random basis, any external effects on sales will come down to the same average for both groups, and the only difference (if there is any) will be due to the color theme.
 
