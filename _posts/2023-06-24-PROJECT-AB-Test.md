@@ -32,9 +32,9 @@ Alternative: 'control' and 'variant' groups have a significant difference in rev
 4. Are some users in both groups? (yes)
 5. Does revenue have a normal distribution? (no)
 
-
+### No missing data
 ```python
-# no missing data
+
 data.info()
 ```
 
@@ -51,8 +51,8 @@ data.info()
 
 
 
+### Roughly equal data points in both groups
 ```python
-# roughly equal data points in both groups
 data.value_counts(['VARIANT_NAME'])
 ```
 
@@ -67,14 +67,10 @@ data.value_counts(['VARIANT_NAME'])
 
 
 
+### Some users have multiple measurements
 ```python
-# some users have multiple measurements
 data.value_counts(['USER_ID'])
 ```
-
-
-
-
     USER_ID
     9101       6
     668        6
@@ -91,84 +87,25 @@ data.value_counts(['USER_ID'])
 
 
 
-
+### User 3 is both in control and variant group
 ```python
-# user 3 is both in control and variant group
 data.groupby(['USER_ID', 'VARIANT_NAME']).sum().head()
 ```
 
+| USER_ID | VARIANT_NAME | REVENUE |
+|---------|--------------|---------|
+|    2    |   control    |   0.0   |
+|    3    |   control    |   0.0   |
+|    3    |   variant    |   0.0   |
+|    4    |   variant    |   0.0   |
+|    5    |   variant    |   0.0   |
 
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th></th>
-      <th>REVENUE</th>
-    </tr>
-    <tr>
-      <th>USER_ID</th>
-      <th>VARIANT_NAME</th>
-      <th></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>2</th>
-      <th>control</th>
-      <td>0.0</td>
-    </tr>
-    <tr>
-      <th rowspan="2" valign="top">3</th>
-      <th>control</th>
-      <td>0.0</td>
-    </tr>
-    <tr>
-      <th>variant</th>
-      <td>0.0</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <th>variant</th>
-      <td>0.0</td>
-    </tr>
-    <tr>
-      <th>5</th>
-      <th>variant</th>
-      <td>0.0</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-
-
-
+### Normality test
 ```python
-# normality test
 # scipy produces a warning for sample size > 5000
 # solution: randomly sample 5000
 shapiro(data[['REVENUE']].sample(5000))
 ```
-
-
-
-
     ShapiroResult(statistic=0.01863241195678711, pvalue=0.0)
 
 
@@ -177,7 +114,7 @@ shapiro(data[['REVENUE']].sample(5000))
 
 Since we have users that fell both into control and variant groups, we will use the difference between the average revenues of the same users in control and variant groups respectively.
 
-Also, the revenue variable does not follow a normal distribution, so we will use a Wilcoxon's nonparametric test
+Also, the revenue variable does not follow a normal distribution, so we will use the Wilcoxon's nonparametric test.
 
 
 ```python
@@ -199,24 +136,16 @@ pairs = pd.merge(control, variant, on = "USER_ID", how = "inner", suffixes = ("_
 ```python
 wilcoxon(pairs['REVENUE_control'] - pairs['REVENUE_variant'])
 ```
-
-
-
-
     WilcoxonResult(statistic=715.0, pvalue=0.812822440169386)
 
 
 
-We have a rather high p-value of 0.81, which basically means the difference in revenue between groups is not significant at all. But let us try to compare the two groups as independent samples using Wilcoxon test's two-sample version: mannwhitneyu
+We have a rather high p-value of 0.81, which basically means the difference in revenue between groups is not significant at all. But let us try to compare the two groups as independent samples using Wilcoxon test's two-sample version.
 
 
 ```python
 mannwhitneyu(control, variant)
 ```
-
-
-
-
     MannwhitneyuResult(statistic=array([7750479.]), pvalue=array([0.4469186]))
 
 
