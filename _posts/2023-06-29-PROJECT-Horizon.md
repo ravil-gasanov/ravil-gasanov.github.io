@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PROJECT: Horizon. A causal discovery algorithm that is not afraid of the dark'
+title: 'PROJECT: Horizon'
 type: project
 ---
 This is the [implementation](https://github.com/ravil-gasanov/horizon) of a causal discovery algorithm I developed as part of my master thesis.
