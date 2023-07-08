@@ -2,19 +2,19 @@
 layout: post
 title: 'Algorithm Design Notes: Chapter 1'
 ---
-## Introduction
+
 This is the first chapter in a series of study notes I made reading [my favorite algorithms book](https://www.algorist.com/). They are not intended (and can't) replace the original material, but can serve as a good refresher or a quick (but not complete) overview to help the reader improve their algorithm design and problem-solving skills.
 
 In this chapter, we will discuss how to formulate the problem, build a solution and reason about its correctness.
 
-## Problem Statement
+# Problem Statement
 A well-specified problem includes a complete description of:
 - all allowed input
 - expected output given input
 
 Take extra care to correctly specify and solve *your problem*, and not some other problem.
 
-## Problem Modelling
+# Problem Modelling
 Avoid re-inventing the wheel. The most important algorithm design technique is *modelling*.
 
 *Modelling* is formulating the problem in terms of well-studied abstract structures and algorithms.
@@ -27,12 +27,12 @@ Beware that some problems can be hard to model using standard parts. While certa
 
 If you are struggling, a good strategy is to try and relax the problem by constraining the input, and see if you can solve the simpler special case of the original problem.
 
-## Reasoning about correctness
+# Reasoning about correctness
 Just because a solution seems reasonable, does not mean it is correct. Or even good.
 
 Thorough mathematical proofs require great care and considerable skill. They are usually not a luxury software engineers can afford at work. However, there is still a lot of value in being able to reason about the correctness.
 
-### Counterexamples
+## Counterexamples
 The best way to quickly disprove an idea is to provide a counterexample.
 
 A good counterexample is **verifiable** and **simple**.
@@ -44,7 +44,7 @@ Other tips and tricks:
 - Go for extremes
 - Hunt for weaknesses
 
-### Induction
+## Induction
 *A computer scientist is a mathematician, who can only prove things by induction.*
 
 — possibly a paraphrase, can't remember/find the original source
@@ -61,8 +61,8 @@ Intuitively then - if it works for n = 0, and we prove that if it works for n - 
 
 The hard part of proving by induction usually comes down to correctly and conveniently formalizing the algorithm and the correctness criteria.
 
-## Conclusion
+# Conclusion
 Follow me on [LinkedIn](https://www.linkedin.com/in/ravilgasanov/) to get notified when the upcoming chapters are published. Starting from Chapter 3, I plan to add a list of *finger exercises* that will help you master a specific concept or technique covered here.
 
-## References and additional sources
+# References and additional sources
 [Algorithm Design Manual](https://www.algorist.com/)

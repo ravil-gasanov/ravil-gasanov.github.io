@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HOWTO: Win'
+title: 'The thing about statistics...'
 ---
 
 ## Introduction

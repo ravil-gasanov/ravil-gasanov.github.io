@@ -3,10 +3,9 @@ layout: post
 title: 'Algorithm Design Notes: Chapter 2'
 ---
 
-## Introduction
 This is the second chapter in a series of study notes I made reading [my favorite algorithms book](https://www.algorist.com/). In this chapter, we will discuss how to assess algorithm efficiency by introducing essential concepts in time complexity analysis.
 
-## RAM
+# RAM
 Time complexity is a measure of how long an algorithm takes to run as a function of the size of the input. However, determining the exact running time of a program on specific hardware would be an extremely tedious task. To this end, a simplified computational model called **Random-Access Machine** (RAM) is used.
 
 RAM is based on the following assumptions:
@@ -15,7 +14,7 @@ RAM is based on the following assumptions:
 
 This allows us to disregard uninteresting implementation and architecture details, and to reason about algorithm efficiency in a machine-independent way.
 
-## The Big Oh
+# The Big Oh
 We defined time complexity in terms of the input size, but it is easy to show that different inputs of the same size can have different running times.
 
 So do we want the **best**, the **worst**, or perhaps the **average** running time? It is foolish to depend on the best-case. On the other hand, average-case complexity is quite useful in practice, but it can be tricky to obtain and may require domain-specific considerations, and we would probably still want to know what happens in the worst-case scenario. Thus, the most common and reliable is the worst-case complexity analysis.
@@ -31,5 +30,5 @@ From the definitions above, one can notice that we essentially disregard multipl
 
 Thus to obtain an upper bound on your algorithm, you need only follow down the most computationally expensive path.
 
-## Conclusion
+# Conclusion
 What I attempted here is a bite-sized introduction to algorithm complexity analysis. Read the respective chapter of the [original source](https://www.algorist.com/) for a much more detailed discussion.
