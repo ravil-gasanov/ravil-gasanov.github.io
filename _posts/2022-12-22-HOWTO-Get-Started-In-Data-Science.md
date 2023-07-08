@@ -3,7 +3,7 @@ layout: post
 title: 'HOWTO: Get Started in Data Science'
 ---
 
-In this post I will deconstruct the data science umbrella (The What), give recommendations on how you can get started (The How) and point to some high-quality learning resources (The Where).
+Let's deconstruct the data science umbrella and see how to get started.
 
 # The What
 The exact responsibilities of a Data Scientist will depend on the company, but I like the following [categorization by Cassie Kozyrkov](https://kozyrkov.medium.com/what-on-earth-is-data-science-eb1237d8cb37):
