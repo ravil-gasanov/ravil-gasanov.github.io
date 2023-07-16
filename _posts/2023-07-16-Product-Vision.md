@@ -64,7 +64,7 @@ Do not misinterpret me. A user-centric approach gives you the best chances for s
 
 But it is hard, and expensive, to compile a traditional requirements specification in this scenario.
 
-So the *leaner* approach is to take an informal shortcut, at least, in the beginning, while you test the muddy waters of the market and are likely to pivot many times before you get it right.
+So the *leaner* approach is to take an informal shortcut, at least in the beginning, while you test the muddy waters of the market and are likely to pivot many times before you get it right.
 
 # References
 [Engineering Software Products by Ian Sommerville](https://iansommerville.com/engineering-software-products/)
