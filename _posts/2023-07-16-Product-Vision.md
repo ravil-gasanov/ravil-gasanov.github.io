@@ -3,10 +3,9 @@ layout: post
 title: 'Product Vision vs Requirements Engineering'
 ---
 
-If you have taken any courses related to software development, chances are one of the first discussions was *waterfall* (planned through) vs *agile* (iterative) development.
+If you have ever taken a Software Engineering course, one of the first discussions was *waterfall* (planned through) vs *agile* (iterative) development.
 
-The new, *agile*, development process in a nutshell:
-
+The new, *agile*, development process described (in a nutshell) as:
 1. Gather requirements (requirements engineering)
 2. Design
 3. Implement
