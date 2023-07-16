@@ -51,7 +51,7 @@ A list of specific recommendations to get you started. The list is not exhaustiv
 
 ## Introduction to Data Science
 - [MIT-6.0002: Introduction To Computational Thinking And Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
-- [Introduction to Statistical Learning with R](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf) (highly recommended)
+- [Introduction to Statistical Learning with R](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf) (highly recommended, now also [with Python](https://hastie.su.domains/ISLP/ISLP_website.pdf))
 
 ## Tools & Practice
 - [SQL Tutorial](https://sqlzoo.net/wiki/SQL_Tutorial)
