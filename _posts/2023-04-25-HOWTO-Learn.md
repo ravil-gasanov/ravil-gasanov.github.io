@@ -93,7 +93,7 @@ As we have discussed, this way our brain gets the chance to process the informat
 Finally, spaced repetition has been shown to improve retention.
 
 ## 4. A note on notes
-No mindless highlighting or copy-pasting notes.
+No highlights or copy-paste.
 
 Instead, we complete a section and then jot down the most important bits in our own words. Then iteratively improve the notes and their organization.
 
